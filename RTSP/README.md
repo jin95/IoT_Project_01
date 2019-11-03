@@ -33,7 +33,7 @@ v4l2rtspserver / dev / video0 : RTP 비디오 캡처 기능이있는 하나의 R
 <code>$ sudo apt-get install liblivemedia-dev libv4l-dev cmake libasound2-dev </code></br>
 <code>$ sudo apt-get install v4l-utils </code></br>
 <code>$ sudo modprobe bcm2835-v4l2  //v4l2 드라이버 활성화 </code></br>
-<code>$ git clone https://github.com/JNU-IoT/RaspberryPi-StreamingServer.git </code></br>
+<code>$ git clone https://github.com/jin95/IoT_Project_01.git </code></br>
 <code>$ cd RaspberryPi-StreamingServer </code></br>
 <code>$ cd RTSP </code></br>
 <code>$ tar -xvf h264_v4l2_rtspserver.tar </code></br>
